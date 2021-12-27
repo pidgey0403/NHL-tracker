@@ -1,7 +1,3 @@
-/**
- * @author Gabrielle Niamat
- */
-
 public class HockeySeries {
 
 	private String teamA;
