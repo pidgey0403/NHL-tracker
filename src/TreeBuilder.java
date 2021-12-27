@@ -4,8 +4,6 @@
  * builds the tree using a level-order esque approach, and has a getTree()
  * method which returns the tree.
  * 
- * @author Gabby Niamat
- * 
  */
 public class TreeBuilder<T> {
     private LinkedBinaryTree<T> tree; // create the generic tree variable.
