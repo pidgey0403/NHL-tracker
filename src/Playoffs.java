@@ -7,7 +7,6 @@ import java.util.Iterator;
  * main tree, and methods including: getTree(), getStandings(),
  * updateStandings(), updateRound(), and findParent().
  * 
- * @author Gabrielle Niamat
  */
 public class Playoffs {
     private LinkedBinaryTree<String> tree; // create the String tree variable.
